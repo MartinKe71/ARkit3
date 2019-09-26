@@ -66,6 +66,9 @@
     <Reference Include="Unity.XR.ARKit.FaceTracking.Editor">
       <HintPath>C:/Users/ketia/Desktop/Unity/ARkit3/Library/ScriptAssemblies/Unity.XR.ARKit.FaceTracking.Editor.dll</HintPath>
     </Reference>
+    <Reference Include="Unity.XR.Management">
+      <HintPath>C:/Users/ketia/Desktop/Unity/ARkit3/Library/ScriptAssemblies/Unity.XR.Management.dll</HintPath>
+    </Reference>
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>C:/Users/ketia/Desktop/Unity/ARkit3/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
@@ -126,6 +129,9 @@
     <Reference Include="Unity.Postprocessing.Editor">
       <HintPath>C:/Users/ketia/Desktop/Unity/ARkit3/Library/ScriptAssemblies/Unity.Postprocessing.Editor.dll</HintPath>
     </Reference>
+    <Reference Include="Unity.XR.Management.Editor">
+      <HintPath>C:/Users/ketia/Desktop/Unity/ARkit3/Library/ScriptAssemblies/Unity.XR.Management.Editor.dll</HintPath>
+    </Reference>
     <Reference Include="Unity.Rider.Editor">
       <HintPath>C:/Users/ketia/Desktop/Unity/ARkit3/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
     </Reference>
@@ -149,12 +155,6 @@
     </Reference>
     <Reference Include="UnityEditor.UI">
       <HintPath>C:/Users/ketia/Desktop/Unity/ARkit3/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.XR.Management">
-      <HintPath>C:/Users/ketia/Desktop/Unity/ARkit3/Library/ScriptAssemblies/Unity.XR.Management.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.XR.Management.Editor">
-      <HintPath>C:/Users/ketia/Desktop/Unity/ARkit3/Library/ScriptAssemblies/Unity.XR.Management.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2019.2.2f1/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>

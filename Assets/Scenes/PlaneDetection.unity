@@ -221,7 +221,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 85033c9ec231d8d429b147e573c8366c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  objectToPlace: {fileID: 7582738893638289979, guid: a97ddb79fedf0a840a81844e33b2bde6,
+  objectToPlace: {fileID: 8451131812021626643, guid: ab3e83c615a87044baf8c0c7efb061ef,
     type: 3}
   placementIndicator: {fileID: 1757745915}
   text: {fileID: 566031374}

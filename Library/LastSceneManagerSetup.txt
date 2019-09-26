@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/BodyTracking.unity
+- path: Assets/Scenes/PlaneDetection.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0

@@ -11,9 +11,6 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/ShaderTest.unity
     guid: 175c6177a392ed240ba54fd4912fa69d
-  - enabled: 0
-    path: Assets/Scenes/HandDetection.unity
-    guid: 577b55c814ba6c2408f902de400e6e3c
   - enabled: 1
     path: Assets/Scenes/BodyTracking.unity
     guid: d6cac56c2def93947a87f3ed93a911a8
